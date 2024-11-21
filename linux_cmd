@@ -1,7 +1,10 @@
 mkdir
 cd
 awk
-useradd
 touch
 ls
 ls -l
+echo
+useradd
+userdel
+usermod
